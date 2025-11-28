@@ -1,4 +1,11 @@
 [
+    {
+    "id": "JWL Linker EN-RU-ES",
+    "name": "JWL Linker EN-RU-ES",
+    "author": "Edward Titievskiy",
+    "description": "Create Bible references and JW publications in English, Russian, and Spanish.",
+    "repo": "argonfatl/jwl-linker-ENRU"
+  },
   {
     "id": "nldates-obsidian",
     "name": "Natural Language Dates",
